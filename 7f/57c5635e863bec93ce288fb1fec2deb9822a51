@@ -1,0 +1,19 @@
+data/plugins/shetengteng__dsh-lumina-tarot.yml
+  s_874bf00d7a9917::t_8a35c111a3fa8a 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "7f57c5635e863bec93ce288fb1fec2deb9822a51",
+  "prompts": {},
+  "sessions": {
+    "s_874bf00d7a9917": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0c297-7388-7263-af47-f9df8be4f7ae",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "terrell.she@zoom.us <terrell.she@zoom.us>"
+    }
+  }
+}
